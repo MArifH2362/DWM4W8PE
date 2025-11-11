@@ -19,8 +19,8 @@ Here's how:
 3. Press any key, and the "DWM\System32\en-US" folder will automatically be created.
 4. Step For DISM
 4.1 BOOT.WIM To Mount : DISM /Mount-image /imagefile:C:\Users\Examples\Boot.wim /Index:2 /MountDir:<target_mount_directory>
-    Or WINRE.WIM To Mount: DISM /Mount-image /imagefile:C:\Users\Examples\WinRE.wim /Index:1 /MountDir:<target_mount_directory>
-4.2 To Unmount : Dism /Unmount-Image /MountDir:<target_mount_directory> /Commit
+4.2 WINRE.WIM To Mount: DISM /Mount-image /imagefile:C:\Users\Examples\WinRE.wim /Index:1 /MountDir:<target_mount_directory>
+4.3 To Unmount : Dism /Unmount-Image /MountDir:<target_mount_directory> /Commit
 5. You Can Edit ISO Editor to Replace For Boot.wim or WinRE.wim Manually, Or You Can Replace For Boot.wim or WinRE.wim Manually To Your Any Drive, Example : USB Bootable Flash Drive Contains Windows 8/8.1 Installer
 
 And After That It's Done
