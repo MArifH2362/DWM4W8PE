@@ -13,7 +13,7 @@ Preparation:
 
 Here's how:
 1. Extract the Windows 8/8.1 ISO file, or copy "Boot.wim" to the Windows 8/8.1 ISO file (anywhere, for example, saving it to your desktop is also possible).
-2. Run "DWM4W8PE-<Version>-Setup.bat" as administrator (right-click).
+2. Run "DWM4W8PE-(Version)-Setup.bat" as administrator (right-click).
 3. Press any key, and the "DWM\System32\en-US" folder will automatically be created.
 4. Step For DISM
 4.1 BOOT.WIM To Mount : DISM /Mount-image /imagefile:C:\Users\Examples\Boot.wim /Index:2 /MountDir:<target_mount_directory>
