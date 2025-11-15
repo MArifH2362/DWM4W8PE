@@ -1,7 +1,7 @@
 @echo OFF
 
-title DWM For Windows 8 PE (Version 1.1)
-echo ===[DWM For Windows 8 PE, Version 1.1]===
+title DWM For Windows 8 PE (Source)
+echo ===[DWM For Windows 8 PE, Source]===
 echo.
 echo By default Windows PE does not have a Desktop Window Manager (DWM)
 echo with this Batch Script File it works by copying the DWM with dependencies files
@@ -125,3 +125,4 @@ Copy %SystemRoot%\System32\en-US\d2d1.dll.mui "%UserProfile%\Desktop\dwm\System3
 Copy %SystemRoot%\System32\en-US\xmllite.dll.mui "%UserProfile%\Desktop\dwm\System32\en-US"
 Copy %SystemRoot%\System32\en-US\powrprof.dll.mui "%UserProfile%\Desktop\dwm\System32\en-US"
 pause
+
