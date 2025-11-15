@@ -37,7 +37,7 @@ Here's how:
 4. Step For DISM
 5. BOOT.WIM To Mount : DISM /Mount-image /imagefile:C:\Users\Examples\Boot.wim /Index:2 /MountDir:<target_mount_directory>
 6. WINRE.WIM To Mount: DISM /Mount-image /imagefile:C:\Users\Examples\WinRE.wim /Index:1 /MountDir:<target_mount_directory>
-7. Move the "System32" Folder From the DWM Folder on Your Desktop, To the Windows Directory ("Windows" Folder) on Windows 8, 8.1 PE
+7. Move the "System32" Folder From the DWM Folder on Your Desktop, To the Windows Directory ("Windows" Folder) on Windows 8, 8.1 PE Mount Directory
 8. To Unmount : Dism /Unmount-Image /MountDir:<target_mount_directory> /Commit
 9. You Can Edit ISO Editor to Replace For Boot.wim (On The "Sources" Folder) or WinRE.wim Manually, Or You Can Replace For Boot.wim (On The "Sources" Folder) or WinRE.wim Manually To Your Any Drive, Example : USB Bootable Flash Drive Contains Windows 8/8.1 Installer
 
