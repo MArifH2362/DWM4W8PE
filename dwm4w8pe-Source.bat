@@ -1,7 +1,7 @@
 @echo OFF
 
-title DWM For Windows 8 PE (Source)
-echo ===[DWM For Windows 8 PE, Version Source Code]===
+title DWM For Windows 8 PE (Version 1.1)
+echo ===[DWM For Windows 8 PE, Version 1.1]===
 echo.
 echo By default Windows PE does not have a Desktop Window Manager (DWM)
 echo with this Batch Script File it works by copying the DWM with dependencies files
@@ -22,8 +22,9 @@ echo Before doing This practice, Read the Note in Down Below
 echo (Scroll Down on Your Mouse or Trackpad)
 echo.
 echo Note 1 : For VM Users Before doing the Test
-echo Create a Virtual Disk First At least 10GB Then Format As FAT32
-echo Then Copying the ISO File to the New Virtual Disk
+echo Create a Virtual Disk First At least 8GB
+echo Then Create a Partition on the New Virtual Disk, then Format As FAT32
+echo Then Copying the ISO File to the New Partition on the New Virtual Disk
 echo.
 echo Note 2 : For Host Computer Make sure you have created
 echo a bootable USB flash drive first of Windows 8 Installation
