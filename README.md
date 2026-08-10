@@ -1,3 +1,5 @@
+Note : This project is just a small experiment
+
 # DWM4W8PE
 DWM4W8PE is a batch script file tool that copies DWM and dependencies from Windows 8 CP, RP, RTM, and Windows 8.1
 (Also Work On Windows Server 2012 RC, RTM, And R2*) to Windows 8/8.1 PE**
