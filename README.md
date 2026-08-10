@@ -1,4 +1,5 @@
-Note : This project is just a small experiment
+Disclaimer : This project is just a small experiment
+Sorry if my English is not very good, especially since I'm still using translation (but I can still understand the language, hehee)
 
 # DWM4W8PE
 DWM4W8PE is a batch script file tool that copies DWM and dependencies from Windows 8 CP, RP, RTM, and Windows 8.1
@@ -6,8 +7,6 @@ DWM4W8PE is a batch script file tool that copies DWM and dependencies from Windo
 ===
 *I haven't tried it yet
 **May require manually placing files in Boot.wim and WinRE.wim
-
-Disclaimer : Sorry if my English is not very good, especially since I'm still using translation (but I can still understand the language, hehee)
 
 Preparation:
 1. Make sure you have a Windows 8/8.1 ISO file.
