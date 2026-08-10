@@ -1,4 +1,4 @@
-Disclaimer : This project is just a small experiment
+Disclaimer : This project is just a small experiment, 
 Sorry if my English is not very good, especially since I'm still using translation (but I can still understand the language, hehee)
 
 # DWM4W8PE
